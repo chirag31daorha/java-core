@@ -1,0 +1,9 @@
+package practice;
+
+public class Practice {
+	static int i=10;
+	public static void main(String[] args) {
+		Practice p=new Practice();
+		System.out.println(p.i);
+	}
+}

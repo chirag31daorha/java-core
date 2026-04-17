@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.jspiders.downcasting.Pubg"/>
+    <fullyQualifiedTypeName name="com.jspiders.inner.Demo.Sample"/>
+    <fullyQualifiedTypeName name="com.jspiders.inner.Alpha.Beta"/>
+    <fullyQualifiedTypeName name="com.jspiders.classandobject.Helper"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="practice.Rectangle"/>
+    <fullyQualifiedTypeName name="practice.Employee"/>
+    <fullyQualifiedTypeName name="practice.ConstructorOverloading"/>
+    <fullyQualifiedTypeName name="practice.Watch"/>
+    <fullyQualifiedTypeName name="practice.BankAccount"/>
+    <fullyQualifiedTypeName name="practice.CollegeStudent"/>
+    <fullyQualifiedTypeName name="practice.Practice"/>
+</qualifiedTypeNameHistroy>
